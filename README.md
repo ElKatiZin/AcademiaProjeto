@@ -1,4 +1,4 @@
-# AcademiaProjetoDsVini
+# Projeto-Academia
 
 Projeto para desenvolver um sistema simples de academia.
 O projeto consciste em um plano de negócio de uma academia, onde possui criação, pesquisa, atualização e exclusão de usuários, planos, professores e/ou aulas.
